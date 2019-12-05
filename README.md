@@ -17,3 +17,5 @@ All code and result is in cooking.ipynb in this repository, and I also upload my
 
 
 Hopes everyone enjoy and get something from my code, here are some of my visualization:
+
+![GitHub Logo](/images/EDA.png)
