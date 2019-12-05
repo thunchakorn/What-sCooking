@@ -1,4 +1,4 @@
-# What-sCooking
+# WhatsCooking
 
 This work is my Project in BADS7201-Machine Learning programming class of BADS program at NIDA.
 I choose What's Cooking? dataset provide by Yummly on Kaggle as my dataset for my project.
